@@ -1,0 +1,5 @@
+
+Haz una aplicación web para promocionar un negocio de venta de pulsos en Cuba. Hazlo profesional e inserta fotos que te voy a indicar en esta carpeta "pulsos". Hazlo con el objetivo de darle publicadad al negocio
+
+
+ Use react and vite as tecnologies and TailwindCSS for styling. Make it responsive and mobile-first. Use spanish as language for the UI and make just the frontend.
